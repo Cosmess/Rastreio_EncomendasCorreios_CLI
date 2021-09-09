@@ -1,0 +1,2 @@
+C:\Users\mmmmmm\source\repos\rastreio\rastreio\bin\Release\netcoreapp3.1\publish\rastreio.pdb
+C:\Users\mmmmmm\source\repos\rastreio\rastreio\bin\Release\netcoreapp3.1\publish\rastreio.exe

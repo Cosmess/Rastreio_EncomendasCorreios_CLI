@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\CosmeRerum\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\CosmeRerum\\.nuget\\packages"
+    ]
+  }
+}
